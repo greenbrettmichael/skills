@@ -1,0 +1,13 @@
+{
+  "name": "greenbrettmichael-skills",
+  "version": "0.1.0",
+  "description": "Brett-Michael Green's custom agent skills.",
+  "author": {
+    "name": "Brett-Michael Green"
+  },
+  "repository": "https://github.com/greenbrettmichael/skills",
+  "keywords": ["skills", "engineering", "productivity"],
+  "skills": [
+    "./skills/productivity/new-skill"
+  ]
+}
